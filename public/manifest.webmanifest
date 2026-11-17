@@ -1,0 +1,16 @@
+{
+  "name": "Coral City",
+  "short_name": "Coral City",
+  "description": "An original 1980s neon open-world crime sandbox for the browser.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#12071f",
+  "theme_color": "#1a0b2e",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}

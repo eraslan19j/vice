@@ -1,0 +1,18 @@
+import type { MetadataRoute } from "next";
+
+// "Add to Home screen" in Chrome => real fullscreen + locked landscape, no browser bars.
+export default function manifest(): MetadataRoute.Manifest {
+  return {
+    name: "GTA Vice Metropolis 3D",
+    short_name: "Vice Metropolis",
+    start_url: "/",
+    display: "fullscreen",
+    orientation: "landscape",
+    background_color: "#000000",
+    theme_color: "#000000",
+    icons: [
+      { src: "/icon-192.png", sizes: "192x192", type: "image/png" },
+      { src: "/icon-512.png", sizes: "512x512", type: "image/png", purpose: "maskable" },
+    ],
+  };
+}

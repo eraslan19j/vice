@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/_global-error/page": "/_global-error",
+  "/api/garage/route": "/api/garage",
+  "/api/leaderboard/route": "/api/leaderboard",
+  "/api/missions/route": "/api/missions",
+  "/api/save/route": "/api/save",
+  "/manifest.webmanifest/route": "/manifest.webmanifest",
+  "/api/health/route": "/api/health",
+  "/page": "/"
+}

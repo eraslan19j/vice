@@ -1,0 +1,11 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/api/garage/route": "app/api/garage/route.js",
+  "/api/leaderboard/route": "app/api/leaderboard/route.js",
+  "/api/missions/route": "app/api/missions/route.js",
+  "/api/save/route": "app/api/save/route.js",
+  "/manifest.webmanifest/route": "app/manifest.webmanifest/route.js",
+  "/api/health/route": "app/api/health/route.js",
+  "/page": "app/page.js"
+}
